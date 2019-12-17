@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\bin\Debug\HomoTTacker-2.0.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\bin\Debug\HomoTTacker-2.0.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\bin\Debug\HomoTTacker-2.0.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\obj\Debug\HomoTTacker-2.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\obj\Debug\HomoTTacker-2.0.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\obj\Debug\HomoTTacker-2.0.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\HomoTTacker-2.0\HomoTTacker-2.0\bin\Debug\Newtonsoft.Json.xml
