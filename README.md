@@ -7,8 +7,9 @@
 # Version 2.0
 * make homography domain in txt file in your directory
 * Whois your homo domain for available registery
-#-
-Chis app can help you for Homography Attacks<br>
+#
+<br>
+This app can help you for Homography Attacks<br>
 Convert your char's for this method attack.
 This soft just for guid no anything
 
